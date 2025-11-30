@@ -1,5 +1,11 @@
 {
     "tournaments": [
+      {
+        "id": "251127",
+        "title": "2 października",
+        "date": "2 października 2025",
+        "spider": "https://r.bridgespider.com/43484/pot-LD/460/"
+      },
        {
         "id": "251002",
         "title": "2 października",
